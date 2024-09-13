@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Full Stack Development
 
-- 👨‍💻 My portfolio website [https://vsmidhun21.github.io/portfolio/](https://vsmidhun21.github.io/portfolio/)
+- 👨‍💻 My portfolio website [https://dimuthuy.github.io/portfolio/](https://dimuthuy.github.io/Portfolio/)
 
 - 💬 Ask me about ** HTML, CSS, Java, C, SQL**
 
